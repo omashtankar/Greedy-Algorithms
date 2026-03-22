@@ -1,4 +1,3 @@
-package Greedy_Qs;
 import java.util.*;
 public class max_no_of_meeting {
     public static int maxMeetings(int start[], int end[]) {
