@@ -4,7 +4,7 @@ public class max_no_of_meeting {
         // add your code here
         
         
-        // Making a 3D array
+        // Making a 2D array
         int meetings[][]=new int[start.length][3];
         // adding vals to the meeting 
         for(int i=0;i<start.length;i++){
